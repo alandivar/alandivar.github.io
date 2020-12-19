@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Andony Landivar Macias"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate, Mechanics and Energy Laboratory, Northwestern University"
   location         : "Evanston, IL"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=P2Of5-AAAAAJ&view_op=list_works&authuser=2&gmla=AJsN-F7SVowAnoZvAfuustkOb0zZnp8cjcAHMIm06S4yR-DutOYnaiIenHWm4T-Hs3t1ZtXxWjGmuEmoKfPWeKeoRwOqNjFrbXD9zCekRyOnrP5lvZiv-ws"
   email            : "alandivar@u.northwestern.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Andony_Landivar_Macias"
   uri              :
   bitbucket        :
   codepen          :
