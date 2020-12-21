@@ -41,7 +41,7 @@ Skills
 * Software Skills:
   * AutoCAD, GeoStudio, SAP200, Rocscience Slide, OPTUM G2
 * Language Skills:
-  *Fluent in English, Spanish, and Italian
+  * Fluent in English, Spanish, and Italian
 
 Publications
 ======
