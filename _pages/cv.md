@@ -22,24 +22,26 @@ Work experience
 * Summer 2016: Staff Geotechnical Engineering Consultant
   * Cal Engineering and Geology (San Jose, California)
   * Duties included: 
-    * Computaional and analytical studies of 
-    * Geotechnical Field Investigations
+    * Computaional and analytical studies of settlement and slope stability
+    * Geotechnical field investigations
     * 
-  * Supervisor: Dan Peluso
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Staff Engineering
+  * FVL Consulting Group (Guayaquil, Ecuador)
+  * Duties included:
+    * Settlement and slope stability design
+    * Project management
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Programming Skills:
+  * C++, Python, LaTeX, Matlab (including Simulink), Mathematica
+* Graphic Design
+  * Adobe Illustrator, Adobe Photoshop, Adobe InDesign 
+* Software Skills:
+  * AutoCAD, GeoStudio, SAP200, Rocscience Slide, OPTUM G2
+* Language Skills:
+  *Fluent in English, Spanish, and Italian
 
 Publications
 ======
