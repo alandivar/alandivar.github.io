@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Geomechanics, Northwestern University, 2022 (expected)
+* M.S. in Geomechanics, Stanford University, 2019
+* B.S. in Civil and Environmental Engineering, University of Illinois Urbana-Champaign, 2017
 
 Work experience
 ======
