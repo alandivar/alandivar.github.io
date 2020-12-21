@@ -8,4 +8,4 @@ date: 2020-01-01
 location: "Evanston, IL"
 ---
 
-This course introduces the fundamental properties and behavior of soils as engineering materials. The courseparticularly addresses the origin of soils through the properties of their constituents while focusing on permeability, deformation and strength of soil masses.
+This course introduces the fundamental properties and behavior of soils as engineering materials. The course particularly addresses the origin of soils through the properties of their constituents while focusing on permeability, deformation and strength of soil masses.
