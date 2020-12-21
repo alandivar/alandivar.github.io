@@ -34,7 +34,7 @@ Work experience
   
 Skills
 ======
-*Programming Skills:
+* Programming Skills:
   * C++, Python, LaTeX, Matlab (including Simulink), Mathematica
 * Graphic Design
   * Adobe Illustrator, Adobe Photoshop, Adobe InDesign 
