@@ -19,12 +19,12 @@ Education
 
 Work experience
 ======
-* Summer 2016: Staff Geotechnical Engineering Consultant
+* Summer 2018: Staff Geotechnical Engineering Consultant
   * Cal Engineering and Geology (San Jose, California)
   * Duties included: 
     * Computaional and analytical studies of settlement and slope stability
     * Geotechnical field investigations
-    * 
+    * Writing and development of technical reports
 
 * Summer 2017: Staff Engineering
   * FVL Consulting Group (Guayaquil, Ecuador)
