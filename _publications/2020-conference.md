@@ -6,7 +6,7 @@ excerpt: 'This work specifically encompasses electrokinetically induced phenomen
 date: 2020-11-18
 venue: '2nd International Conference on Energy Geotechnics (2020)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Landivar Macias, Andony and Rotta Loria, Alessandro F. (2020). Electrokinetic treatments of soils: potential for geoenergy applications; <i>E3S Web of Conferences 205, 09002 (2020)</i>. 1(1).'
+
 ---
 This work specifically encompasses electrokinetically induced phenomena in soils and expands on opportunities in the context of geoenergy applications, among others, which can be mediated by electrokinetic treatments.
 
