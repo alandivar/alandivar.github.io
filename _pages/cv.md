@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * Ph.D in Geomechanics, Northwestern University, 2022 (expected)
@@ -17,10 +19,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2016: Staff Geotechnical Engineering Consultant
+  * Cal Engineering and Geology (San Jose, California)
+  * Duties included: 
+    * Computaional and analytical studies of 
+    * Geotechnical Field Investigations
+    * 
+  * Supervisor: Dan Peluso
 
 * Fall 2015: Research Assistant
   * Github University
@@ -54,6 +59,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
