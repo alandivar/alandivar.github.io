@@ -2,7 +2,7 @@
 title: "Teaching Assistant - Earth Surface Engineering"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2020-Autumn-teaching
 venue: "Northwestern University, Department of Civil and Environmental Engineering"
 date: 2020-01-01
 location: "Evanston, IL"
