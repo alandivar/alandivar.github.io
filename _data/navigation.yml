@@ -1,20 +1,20 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: alandivar.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: alandivar.github.io/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: alandivar.github.io/teaching/    
     
  # - title: "Portfolio"
  #   url: /portfolio/
  
  - title: "CV"
-    url: /cv/
+    url: alandivar.github.io/cv/
     
   - title: "Blog Posts"
-    url: /year-archive/
+    url: alandivar.github.io/year-archive/
     
