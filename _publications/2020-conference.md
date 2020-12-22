@@ -4,7 +4,7 @@ collection: publications
 permalink: 	https://doi.org/10.1051/e3sconf/202020509002
 excerpt: 'This work specifically encompasses electrokinetically induced phenomena in soils and expands on opportunities in the context of geoenergy applications, among others, which can be mediated by electrokinetic treatments.'
 date: 2020-11-18
-venue: '2nd International Conference on Energy Geotechnics (2020)'
+venue: '2nd International Conference on Energy Geotechnics'
 
 ---
 This work specifically encompasses electrokinetically induced phenomena in soils and expands on opportunities in the context of geoenergy applications, among others, which can be mediated by electrokinetic treatments.
